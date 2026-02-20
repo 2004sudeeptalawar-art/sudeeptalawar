@@ -1,7 +1,33 @@
-# 💫 About Me:
-I am student 
 
+## 👨‍💻 About Me
 
+Hi there! I'm **Sudeep Talawar** 👋  
+🎓 I am a passionate student with a strong interest in technology and continuous learning.  
+
+- 🌱 Currently learning: Web Development & Programming  
+- 💡 Interested in: Open Source, Software Development, and Problem Solving  
+- 🎯 Goal: To become a skilled Full-Stack Developer  
+- 📚 Always exploring new tools and technologies  
+- 🚀 Love building small projects to improve my skills  
+
+---
+
+## 🧠 What I’m Working On
+
+- 🔭 Improving my coding skills daily  
+- 💻 Practicing Data Structures & Algorithms  
+- 🌐 Building personal projects  
+
+---
+
+## 📫 Connect With Me
+
+- 📘 [Facebook](https://www.facebook.com/share/17tJP8SQWR/)
+- 📸 [Instagram](https://www.instagram.com/mr_sude_x18?igsh=MXZ4ZnV6eTh3NWhycA==)
+- 💼 [LinkedIn](www.linkedin.com/in/
+sudeep-talawar-828106334
+)
+- ✉️ Email: 2004sudeeptalawar@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sudeep Talawar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sudee_x18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeep Talawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2004sudeeptalawar@gmail.com) 
