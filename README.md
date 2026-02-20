@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am student
+I am student 
+
 
 
 ## 🌐 Socials:
